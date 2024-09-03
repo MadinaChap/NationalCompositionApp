@@ -6,7 +6,7 @@
 Скачайте zip-архив и распокуйте его, либо клонируйте проект.
 
 # Как запустить
-1. Через командную строку создайте виртуальное окружение: `python -m venv venv`, `venv/Scripts/activate` на виндовс. `python -m venv venv`, 'source venv/bin/activate' на MacOs/Linux.
+1. Через командную строку создайте виртуальное окружение: `python -m venv venv`, `venv/Scripts/activate` на виндовс. `python -m venv venv`, `source venv/bin/activate` на MacOs/Linux.
 1. Далее загрузите все необходимые зависимости и библиотеки `pip install -r requirements.txt`
 2. Запустите программу через `face.py`
  
